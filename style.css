@@ -31,6 +31,26 @@ nav{
   color: #4A6C6F; 
 }
 
+nav{
+  list-style-type: none;
+  position: fixed;
+  background-color: #E2E1B9;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 8px;
+  color: #4A6C6F; 
+}
+
+a{
+  text-decoration:none;
+  color:#4A6C6F;
+}
+
+li:hover{
+  background-color:#d8f3dc;
+}
+
 li{ 
   display: inline;
   padding: 5px;
