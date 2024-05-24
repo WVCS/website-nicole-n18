@@ -1,21 +1,3 @@
-h1{
-background-color:#f6f4d2;
-font-size: 45px;
-color: #4A6C6F; 
-width: 100vw;
-text-align: center;
-text-decoration: overline;
-}
-
-img {
-  width: 50%;
-  border-radius:50%;
-  border: solid #E2E1B9 5px;
-}
-
-img:hover {
-  width: 40%
-}    
 body{ 
 background-color:#f6f4d2;
 } 
@@ -44,4 +26,3 @@ li{
   display: inline;
   padding: 5px;
 }
-
